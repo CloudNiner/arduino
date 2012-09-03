@@ -1,0 +1,15 @@
+DEPENDENCIES (Mac):
+    xcode
+    xcode dev tools (gcc, etc...)
+    macports
+    macports install avr-gcc
+
+NEW ARDUINO PROJECT:
+    touch ./<newprojectname>/<newprojectname.ino
+    cp Makefile ./<newprojectname>/
+
+VIM C SYNTAX HIGHLIGHTING (.vimrc):
+    au BufReadPost *.ino set syntax=c
+
+DEBUGGING:
+    Use arduino "Serial Monitor" program for debugging output...easier than setting up /dev/tty.usbmodemXXXXX to read serial in
