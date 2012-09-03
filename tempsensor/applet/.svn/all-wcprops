@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/awfwx_code/!svn/ver/9/arduino/tempsensor/applet
+END
+tempsensor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/awfwx_code/!svn/ver/9/arduino/tempsensor/applet/tempsensor.cpp
+END
+tempsensor.hex
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/awfwx_code/!svn/ver/9/arduino/tempsensor/applet/tempsensor.hex
+END
+tempsensor.elf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/awfwx_code/!svn/ver/9/arduino/tempsensor/applet/tempsensor.elf
+END
