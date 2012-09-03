@@ -3,6 +3,7 @@ DEPENDENCIES (Mac):
     xcode dev tools (gcc, etc...)
     macports
     macports install avr-gcc
+    /Applications/Arduino.app   (get this from http://arduino.cc/en/Main/Software)
 
 NEW ARDUINO PROJECT:
     touch ./<newprojectname>/<newprojectname.ino
